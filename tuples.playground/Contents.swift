@@ -1,3 +1,7 @@
+/*:
+ This playground project is the implementation of Talks over Swift's [tuple & Typealias](https://mobidevtalk.com/swift-typealias-tuple-the-little-smart-dude/)
+ */
+
 import Foundation
 
 /*:
